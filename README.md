@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 我的博客: blog.yexkr.top  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -61,24 +61,24 @@ Sunday                   15 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 5 mins       █████████████████████░░░░   83.51 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-CMake                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-PowerShell               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+C++                      11 hrs 33 mins      ██████████████████░░░░░░░   72.80 % 
+Markdown                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+CMake                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-markdown_editor          5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.74 % 
-LeetcodeHot100           2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-sast_cxx_lessons         2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-sast-readium             55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-11                       44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+markdown_editor          6 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.15 % 
+LeetcodeHot100           2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+sast_cxx_lessons         2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+myBlog                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+sast-readium             55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 💻 Operating System: 
-Windows                  12 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -94,5 +94,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2025 18:53:02 UTC
+ Last Updated on 07/11/2025 18:48:05 UTC
 <!--END_SECTION:waka-->
