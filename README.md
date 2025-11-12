@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 我的博客: blog.yexkr.top  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -37,21 +37,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-🌆 Daytime                58 commits          ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌃 Evening                71 commits          █████████████░░░░░░░░░░░░   50.71 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   42.25 % 
+🌃 Evening                71 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Sunday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Sunday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 ```
 
 
@@ -61,25 +61,25 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      17 hrs 23 mins      █████████████████░░░░░░░░   69.18 % 
-Markdown                 3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-CMake                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+C++                      15 hrs 19 mins      █████████████░░░░░░░░░░░░   53.77 % 
+Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Python                   3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 53 mins      █████████████████████████   99.08 % 
-Visual Studio            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+VS Code                  28 hrs 4 mins       █████████████████████████   98.50 % 
+Visual Studio            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-markdown_editor          12 hrs 50 mins      █████████████░░░░░░░░░░░░   51.08 % 
-myBlog                   3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-LeetcodeHot100           3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-sast_cxx_lessons         2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Unknown Project          1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+markdown_editor          12 hrs 22 mins      ███████████░░░░░░░░░░░░░░   43.40 % 
+myBlog                   4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Zigbee                   3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+sast_cxx_lessons         2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+work                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 💻 Operating System: 
-Windows                  25 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -95,5 +95,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2025 18:50:54 UTC
+ Last Updated on 12/11/2025 18:49:33 UTC
 <!--END_SECTION:waka-->
