@@ -63,25 +63,25 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 16 mins      ████████████████░░░░░░░░░   64.78 % 
-CMake                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-C++                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   13 hrs 59 mins      ████████████████░░░░░░░░░   62.75 % 
+CMake                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+C++                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 20 mins      █████████████████████████   99.01 % 
-Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VS Code                  22 hrs 3 mins       █████████████████████████   98.95 % 
+Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-Zigbee                   14 hrs 37 mins      ████████████████░░░░░░░░░   62.02 % 
-Cpp_and_Python           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Modelight                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-gr-advoqpsk              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-markdown_editor          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Zigbee                   13 hrs 19 mins      ███████████████░░░░░░░░░░   59.82 % 
+Cpp_and_Python           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Modelight                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+gr-advoqpsk              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+markdown_editor          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Windows                  23 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 18:52:16 UTC
+ Last Updated on 21/11/2025 18:48:16 UTC
 <!--END_SECTION:waka-->
