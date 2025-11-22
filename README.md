@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -63,25 +63,25 @@ Sunday                   31 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   13 hrs 59 mins      ████████████████░░░░░░░░░   62.75 % 
-CMake                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-C++                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Python                   10 hrs 25 mins      █████████████░░░░░░░░░░░░   52.52 % 
+CMake                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Lua                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+C++                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 3 mins       █████████████████████████   98.95 % 
-Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+VS Code                  19 hrs 36 mins      █████████████████████████   98.82 % 
+Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-Zigbee                   13 hrs 19 mins      ███████████████░░░░░░░░░░   59.82 % 
-Cpp_and_Python           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Modelight                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-gr-advoqpsk              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-markdown_editor          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Zigbee                   9 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+Cpp_and_Python           2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Modelight                1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Xmake                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+gr-advoqpsk              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 💻 Operating System: 
-Windows                  22 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2025 18:48:16 UTC
+ Last Updated on 22/11/2025 18:48:14 UTC
 <!--END_SECTION:waka-->
