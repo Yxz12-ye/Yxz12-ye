@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 > 📦 7.0 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -63,25 +63,25 @@ Sunday                   33 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   40.27 % 
-CMake                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Lua                      1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-C++                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Python                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+C++                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+CMake                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Lua                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+QML                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 58 mins      █████████████████████████   98.36 % 
-Visual Studio            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+VS Code                  10 hrs 48 mins      ████████████████████████░   96.83 % 
+Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🐱‍💻 Projects: 
-Zigbee                   5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.41 % 
-Cpp_and_Python           2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Modelight                1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Xmake                    1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-gr-advoqpsk              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Cpp_and_Python           2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Modelight                1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Zigbee                   1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Xmake                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+gr-ieee802-11            44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 💻 Operating System: 
-Windows                  14 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2025 18:48:26 UTC
+ Last Updated on 24/11/2025 18:52:55 UTC
 <!--END_SECTION:waka-->
