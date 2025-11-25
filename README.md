@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -39,21 +39,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-🌆 Daytime                81 commits          ███████████░░░░░░░░░░░░░░   42.19 % 
-🌃 Evening                97 commits          █████████████░░░░░░░░░░░░   50.52 % 
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+🌆 Daytime                82 commits          ███████████░░░░░░░░░░░░░░   42.49 % 
+🌃 Evening                97 commits          █████████████░░░░░░░░░░░░   50.26 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Tuesday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Thursday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Friday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Saturday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Sunday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Wednesday                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Thursday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Friday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Saturday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 ```
 
 
@@ -63,25 +63,25 @@ Sunday                   33 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-C++                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-CMake                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Lua                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-QML                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Python                   3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+C++                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+CMake                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Lua                      1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+MATLAB                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 48 mins      ████████████████████████░   96.83 % 
-Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+VS Code                  12 hrs 38 mins      ████████████████████████░   97.54 % 
+Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-Cpp_and_Python           2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Modelight                1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Zigbee                   1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Xmake                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-gr-ieee802-11            44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Zigbee                   3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Cpp_and_Python           2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Modelight                1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Xmake                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+gr-ieee802-11            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 💻 Operating System: 
-Windows                  11 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2025 18:52:55 UTC
+ Last Updated on 25/11/2025 18:51:24 UTC
 <!--END_SECTION:waka-->
