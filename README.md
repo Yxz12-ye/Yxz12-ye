@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,25 +63,25 @@ Sunday                   33 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.16 % 
-QML                      2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-C++                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-MATLAB                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Lua                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Python                   4 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.15 % 
+QML                      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+C++                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+MATLAB                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 59 mins      ████████████████████████░   97.41 % 
-Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+VS Code                  9 hrs 39 mins       ████████████████████████░   96.80 % 
+Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-Zigbee                   4 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
-Modelight                2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-zigbee_torch             1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Xmake                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Compiler_Link            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Zigbee                   4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   40.75 % 
+Modelight                2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+zigbee_torch             1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Compiler_Link            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+myBlog                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 💻 Operating System: 
-Windows                  12 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 18:49:31 UTC
+ Last Updated on 29/11/2025 18:49:28 UTC
 <!--END_SECTION:waka-->
