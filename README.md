@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -63,25 +63,24 @@ Sunday                   33 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.27 % 
-QML                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-C++                      1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-MATLAB                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Java                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Python                   4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+QML                      2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+C++                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+MATLAB                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+CMake                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 23 mins      ████████████████████████░   97.27 % 
-Visual Studio            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+VS Code                  11 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zigbee                   4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.74 % 
-Modelight                2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-zigbee_torch             1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-leaq                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-work                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Zigbee                   3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Modelight                2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+zigbee_torch             1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+leaq                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+work                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  11 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +96,5 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 18:49:20 UTC
+ Last Updated on 01/12/2025 18:57:54 UTC
 <!--END_SECTION:waka-->
