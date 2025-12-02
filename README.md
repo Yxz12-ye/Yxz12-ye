@@ -22,38 +22,38 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 7.3 kB Used in GitHub's Storage 
+> 📦 7.4 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
+> 🏆 88 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-🌆 Daytime                82 commits          ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌃 Evening                102 commits         █████████████░░░░░░░░░░░░   51.52 % 
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+🌆 Daytime                82 commits          ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌃 Evening                103 commits         █████████████░░░░░░░░░░░░   51.76 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Friday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Saturday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Sunday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Tuesday                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Wednesday                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Thursday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Friday                   40 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Saturday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   33 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 ```
 
 
@@ -63,38 +63,38 @@ Sunday                   33 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-QML                      2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-C++                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-MATLAB                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-CMake                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.10 % 
+QML                      2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+C++                      1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+CMake                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Java                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zigbee                   3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Modelight                2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-zigbee_torch             1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-leaq                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-work                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Modelight                2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
+zigbee_torch             1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Zigbee                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+leaq                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+work                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-QML                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+QML                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 01/12/2025 18:57:54 UTC
+ Last Updated on 02/12/2025 18:56:44 UTC
 <!--END_SECTION:waka-->
