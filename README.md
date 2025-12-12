@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -63,25 +63,25 @@ Sunday                   35 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
-Python                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-C                        1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Text                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-C#                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+C++                      6 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+Python                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Text                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+C#                       1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+GLSL                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 56 mins      █████████████████████░░░░   82.13 % 
-Visual Studio            3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+VS Code                  11 hrs 42 mins      ████████████████████░░░░░   79.41 % 
+Visual Studio            3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
 
 🐱‍💻 Projects: 
-OpenGL                   6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
-zigbee_ed_template       3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Unknown Project          1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Zigbee                   1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Project1                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+OpenGL                   6 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.42 % 
+Unknown Project          1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Zigbee                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Project1                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Well_Prepared_BepInEx    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 💻 Operating System: 
-Windows                  16 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2025 18:55:53 UTC
+ Last Updated on 12/12/2025 18:54:45 UTC
 <!--END_SECTION:waka-->
