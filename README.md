@@ -63,25 +63,25 @@ Sunday                   35 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.27 % 
-Python                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Text                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-C#                       1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Vue.js                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+C++                      3 hrs 5 mins        █████████████████░░░░░░░░   66.98 % 
+Vue.js                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+GLSL                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 45 mins       ██████████████████░░░░░░░   71.88 % 
-Visual Studio            3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+VS Code                  3 hrs 2 mins        ████████████████░░░░░░░░░   65.58 % 
+Visual Studio            1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
 
 🐱‍💻 Projects: 
-OpenGL                   2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Unknown Project          1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Zigbee                   1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Project1                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Well_Prepared_BepInEx    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+OpenGL                   1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.16 % 
+Project1                 1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
+myBlog                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Zigbee                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -97,5 +97,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 18:49:09 UTC
+ Last Updated on 14/12/2025 18:49:58 UTC
 <!--END_SECTION:waka-->
