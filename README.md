@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,5 +48,5 @@ Vue                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 26/12/2025 11:43:59 UTC
+ Last Updated on 26/12/2025 11:47:07 UTC
 <!--END_SECTION:waka-->
