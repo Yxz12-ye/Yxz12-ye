@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.24 % 
-CMake                    0 secs              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.76 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -45,7 +44,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 07/02/2026 19:01:16 UTC
+ Last Updated on 08/02/2026 19:02:34 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
