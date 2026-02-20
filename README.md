@@ -22,19 +22,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%207%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      1 hr 3 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.27 % 
-Markdown                 47 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.02 % 
-CMake                    24 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.69 % 
-C                        21 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.36 % 
-Vue.js                   10 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.51 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -48,7 +35,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 19/02/2026 19:23:35 UTC
+ Last Updated on 20/02/2026 19:20:50 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
