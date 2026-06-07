@@ -20,7 +20,18 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%202%20mins-blue?style=flat)
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 36 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.66 % 
+JSON                     2 hrs 46 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.30 % 
+C++                      1 hr 42 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.25 % 
+Other                    52 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.76 % 
+C                        42 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.72 % 
+```
 
 **I Mostly Code in C++** 
 
@@ -35,7 +46,7 @@ GLSL                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/06/2026 19:53:53 UTC
+ Last Updated on 07/06/2026 19:55:32 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
