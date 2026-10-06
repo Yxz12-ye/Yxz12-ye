@@ -30,34 +30,34 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.31 % 
-Python                   1 hr 2 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.77 % 
-Markdown                 24 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.16 % 
-CMake                    9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 % 
-TypeScript               3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.41 % 
+C++                      4 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.40 % 
+CMake                    9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.05 % 
+Image (svg)              6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 % 
+Python                   4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.53 % 
+JSON                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (62.57%)
+⏱ AI Coding Time: 2 hrs 19 mins (46.16%)
 
-✍️ 1,969 lines written by AI, 655 lines written by hand (75.04% AI-written)
+✍️ 1,254 lines written by AI, 662 lines written by hand (65.45% AI-written)
 
-🔤 632,176 Input Tokens, 214,865 Output Tokens
+🔤 1,019,762 Input Tokens, 123,198 Output Tokens
 
-💵 $1.99 Estimated AI Cost This Week
+💵 $4.97 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
 
-GPT                      12 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      1,266 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.04% of written lines came from AI
-📄 Detailed Prompter — average 867 characters per prompt
+⚖️ Balanced with AI — 65.45% of written lines came from AI
+📚 Verbose Prompter — average 2,055 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.25% of changed lines were hand-edited
+🚀 High AI Trust — 43.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -73,7 +73,7 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/10/2026 00:14:51 UTC
+ Last Updated on 06/10/2026 22:44:36 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
