@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.40 % 
-CMake                    9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.05 % 
-Image (svg)              6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 % 
-Python                   4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.53 % 
+C++                      4 hrs 45 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   92.53 % 
+CMake                    9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.00 % 
+Image (svg)              6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.18 % 
+Python                   4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.51 % 
 JSON                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (46.16%)
+⏱ AI Coding Time: 2 hrs 19 mins (45.35%)
 
-✍️ 1,254 lines written by AI, 662 lines written by hand (65.45% AI-written)
+✍️ 1,254 lines written by AI, 663 lines written by hand (65.41% AI-written)
 
 🔤 1,019,762 Input Tokens, 123,198 Output Tokens
 
@@ -54,10 +54,10 @@ GPT                      1,266 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.45% of written lines came from AI
+⚖️ Balanced with AI — 65.41% of written lines came from AI
 📚 Verbose Prompter — average 2,055 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 43.41% of changed lines were hand-edited
+🚀 High AI Trust — 43.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -73,7 +73,7 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/10/2026 22:44:36 UTC
+ Last Updated on 07/10/2026 23:15:18 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
