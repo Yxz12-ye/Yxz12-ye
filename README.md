@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🐛+Professional+Bug+Creator;☕+Coffee→Code+Transformer;🐍+It+works+on+my+machine;🎨+Commit+Message+Artist)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2054%20mins-blue?style=flat)
 
@@ -30,34 +30,34 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.33 % 
-Assembly                 1 hr 37 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.75 % 
-RGBDS Assembly           39 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.79 % 
-Python                   34 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.33 % 
-Markdown                 16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 % 
+C++                      2 hrs 16 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.00 % 
+Assembly                 1 hr 37 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.08 % 
+RGBDS Assembly           39 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.12 % 
+Python                   34 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.75 % 
+Markdown                 16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (12.6%)
+⏱ AI Coding Time: 48 mins (12.46%)
 
-✍️ 853 lines written by AI, 294 lines written by hand (74.37% AI-written)
+✍️ 853 lines written by AI, 295 lines written by hand (74.3% AI-written)
 
-🔤 777,397 Input Tokens, 55,311 Output Tokens
+🔤 961,319 Input Tokens, 60,660 Output Tokens
 
-💵 $3.26 Estimated AI Cost This Week
+💵 $3.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 14 AI Prompts
 
 GPT                      858 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Codex-Vscode             0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.37% of written lines came from AI
-📄 Detailed Prompter — average 1,061 characters per prompt
+🤖 AI-Driven — 74.3% of written lines came from AI
+📄 Detailed Prompter — average 989 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 45.04% of changed lines were hand-edited
+🚀 High AI Trust — 45.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -73,7 +73,7 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/10/2026 21:39:09 UTC
+ Last Updated on 16/10/2026 21:34:57 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
