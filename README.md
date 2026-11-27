@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       35 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.81 % 
-Java                     18 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.75 % 
-JSON                     16 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.13 % 
-Kotlin                   15 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.12 % 
-QML                      9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.75 % 
+C#                       35 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.34 % 
+Java                     18 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.44 % 
+JSON                     16 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.96 % 
+Kotlin                   15 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.03 % 
+Python                   10 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (62.31%)
+⏱ AI Coding Time: 1 hr 13 mins (57.15%)
 
-✍️ 3,349 lines written by AI, 5 lines written by hand (99.85% AI-written)
+✍️ 3,349 lines written by AI, 9 lines written by hand (99.73% AI-written)
 
 🔤 1,564,052 Input Tokens, 201,463 Output Tokens
 
@@ -53,10 +53,10 @@ QML                      9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 GPT                      3,427 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
+🤖 AI-Driven — 99.73% of written lines came from AI
 📝 Concise Prompter — average 107 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+🚀 High AI Trust — 0.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +72,7 @@ JavaScript               2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 26/11/2026 01:54:31 UTC
+ Last Updated on 27/11/2026 01:52:26 UTC
 <!--END_SECTION:waka-->
 
 ## 💻 Programming Languages
